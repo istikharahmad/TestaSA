@@ -5,5 +5,6 @@
  - Based on four key principles:
  1. Encapsulation
  2. Inheritance
- 3. Polymorphism
- 4. Abstraction
+    ```
+ 4. Polymorphism
+ 5. Abstraction
